@@ -4,4 +4,4 @@
 
 ## Main Framework
 
-![Main Framework](https://github.com/1A404/SA-Tutorial/tree/master/img/tasks.png)
+![Main Framework](https://github.com/1A404/SA-Tutorial/blob/master/img/tasks.png)
